@@ -1,0 +1,36 @@
+.tabela {
+    width: 50%;
+    border: 1px solid #000;
+    margin-bottom: 5%;
+}
+
+.tabela td, th  {
+    border: 1px solid #000;
+}
+
+h1#resultado {
+    color: #ff0000
+}
+
+p {
+    text-align: left;
+}
+
+input {
+    width: 25%;
+    margin-top: 1%;
+    border: 1px solid #000;
+    border-radius: 9px;
+    height: 25px;
+}
+
+button {
+    margin-top: 1%;
+    margin-left: 8%;
+    border-radius: 9px;
+    border: 1px solid;
+    width: 10%;
+    height: 30px;
+    color:#000;
+    background-color:rgba(100, 111, 204, 0.404);
+}
